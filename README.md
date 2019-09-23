@@ -5,7 +5,7 @@ In the raw numpy array, each frame is represented by a 1px-wide slice of the fra
 only averaging in horizontal direction for a more sophisticated representation as well as only taking every nth frame into consideration 
 for slightly improved performance.
 
-`barcode_split` opts for slicing the (very long) sequence of frames and stacking the slices on top of one another instead of resizing
+`barcode_split.py` opts for slicing the (very long) sequence of frames and stacking the slices on top of one another instead of resizing
 the numpy array in order to include every single frame in the output image.
 
 Examples:
