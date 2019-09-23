@@ -36,3 +36,4 @@ Up (2009)
 A selection of split images:
 ![avatar3](https://github.com/evelynbirnzain/movie-barcode/blob/master/images/0_split.jpg)
 ![br3](https://github.com/evelynbirnzain/movie-barcode/blob/master/images/1_split.jpg)
+![up3](https://github.com/evelynbirnzain/movie-barcode/blob/master/images/5_split.jpg)
